@@ -1,0 +1,3 @@
+/Users/flaviarivero/github/coleccion_de_ejercicios_STL/cmake-build-debug/CMakeFiles/coleccion_de_ejercicios_STL.dir
+/Users/flaviarivero/github/coleccion_de_ejercicios_STL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/flaviarivero/github/coleccion_de_ejercicios_STL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
