@@ -55,12 +55,6 @@ build CMakeFiles/coleccion_de_ejercicios_STL.dir/main.cpp.o: CXX_COMPILER__colec
   OBJECT_DIR = CMakeFiles/coleccion_de_ejercicios_STL.dir
   OBJECT_FILE_DIR = CMakeFiles/coleccion_de_ejercicios_STL.dir
 
-build CMakeFiles/coleccion_de_ejercicios_STL.dir/archivo/archivo.cpp.o: CXX_COMPILER__coleccion_de_ejercicios_STL_unscanned_Debug /Users/flaviarivero/github/coleccion_de_ejercicios_STL/archivo/archivo.cpp || cmake_object_order_depends_target_coleccion_de_ejercicios_STL
-  DEP_FILE = CMakeFiles/coleccion_de_ejercicios_STL.dir/archivo/archivo.cpp.o.d
-  FLAGS = -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/coleccion_de_ejercicios_STL.dir
-  OBJECT_FILE_DIR = CMakeFiles/coleccion_de_ejercicios_STL.dir/archivo
-
 build CMakeFiles/coleccion_de_ejercicios_STL.dir/triangulo/triangulo.cpp.o: CXX_COMPILER__coleccion_de_ejercicios_STL_unscanned_Debug /Users/flaviarivero/github/coleccion_de_ejercicios_STL/triangulo/triangulo.cpp || cmake_object_order_depends_target_coleccion_de_ejercicios_STL
   DEP_FILE = CMakeFiles/coleccion_de_ejercicios_STL.dir/triangulo/triangulo.cpp.o.d
   FLAGS = -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
@@ -73,6 +67,12 @@ build CMakeFiles/coleccion_de_ejercicios_STL.dir/circulo/circulo.cpp.o: CXX_COMP
   OBJECT_DIR = CMakeFiles/coleccion_de_ejercicios_STL.dir
   OBJECT_FILE_DIR = CMakeFiles/coleccion_de_ejercicios_STL.dir/circulo
 
+build CMakeFiles/coleccion_de_ejercicios_STL.dir/contenedores/contenedores.cpp.o: CXX_COMPILER__coleccion_de_ejercicios_STL_unscanned_Debug /Users/flaviarivero/github/coleccion_de_ejercicios_STL/contenedores/contenedores.cpp || cmake_object_order_depends_target_coleccion_de_ejercicios_STL
+  DEP_FILE = CMakeFiles/coleccion_de_ejercicios_STL.dir/contenedores/contenedores.cpp.o.d
+  FLAGS = -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/coleccion_de_ejercicios_STL.dir
+  OBJECT_FILE_DIR = CMakeFiles/coleccion_de_ejercicios_STL.dir/contenedores
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target coleccion_de_ejercicios_STL
@@ -81,7 +81,7 @@ build CMakeFiles/coleccion_de_ejercicios_STL.dir/circulo/circulo.cpp.o: CXX_COMP
 #############################################
 # Link the executable coleccion_de_ejercicios_STL
 
-build coleccion_de_ejercicios_STL: CXX_EXECUTABLE_LINKER__coleccion_de_ejercicios_STL_Debug CMakeFiles/coleccion_de_ejercicios_STL.dir/main.cpp.o CMakeFiles/coleccion_de_ejercicios_STL.dir/archivo/archivo.cpp.o CMakeFiles/coleccion_de_ejercicios_STL.dir/triangulo/triangulo.cpp.o CMakeFiles/coleccion_de_ejercicios_STL.dir/circulo/circulo.cpp.o
+build coleccion_de_ejercicios_STL: CXX_EXECUTABLE_LINKER__coleccion_de_ejercicios_STL_Debug CMakeFiles/coleccion_de_ejercicios_STL.dir/main.cpp.o CMakeFiles/coleccion_de_ejercicios_STL.dir/triangulo/triangulo.cpp.o CMakeFiles/coleccion_de_ejercicios_STL.dir/circulo/circulo.cpp.o CMakeFiles/coleccion_de_ejercicios_STL.dir/contenedores/contenedores.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/coleccion_de_ejercicios_STL.dir
   POST_BUILD = :

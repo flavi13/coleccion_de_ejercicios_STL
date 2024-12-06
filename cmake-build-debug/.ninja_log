@@ -1,5 +1,12 @@
 # ninja log v6
-2	186	1732868264642028783	CMakeFiles/coleccion_de_ejercicios_STL.dir/triangulo/triangulo.cpp.o	696505e0b0dac0ca
-3	186	1732868264642510493	CMakeFiles/coleccion_de_ejercicios_STL.dir/circulo/circulo.cpp.o	1c767a2a4f43e8c1
-1	421	1732868264640523234	CMakeFiles/coleccion_de_ejercicios_STL.dir/main.cpp.o	dfb963226ffd5e4d
 2	496	1732868264641728948	CMakeFiles/coleccion_de_ejercicios_STL.dir/archivo/archivo.cpp.o	18b6735ae09e687b
+3	538	1733483636535694614	CMakeFiles/coleccion_de_ejercicios_STL.dir/main.cpp.o	dfb963226ffd5e4d
+2	64	1733483896783260330	build.ninja	c4d99295bb590817
+538	656	1733483637070924689	coleccion_de_ejercicios_STL	71db0137ac0c8095
+9	158	1733244392641030931	CMakeFiles/coleccion_de_ejercicios_STL.dir/triangulo/triangulo.cpp.o	696505e0b0dac0ca
+17	229	1733245973660373942	CMakeFiles/coleccion_de_ejercicios_STL.dir/circulo/circulo.cpp.o	1c767a2a4f43e8c1
+11	663	1733484106118070263	CMakeFiles/coleccion_de_ejercicios_STL.dir/main.cpp.o	dfb963226ffd5e4d
+13	724	1733484106119285959	CMakeFiles/coleccion_de_ejercicios_STL.dir/contenedores/contenedores.cpp.o	404d530e4188a680
+725	844	1733484106831152087	coleccion_de_ejercicios_STL	640e53587c198f82
+4	695	1733484206173690427	CMakeFiles/coleccion_de_ejercicios_STL.dir/contenedores/contenedores.cpp.o	404d530e4188a680
+696	818	1733484206865271873	coleccion_de_ejercicios_STL	640e53587c198f82

@@ -2,15 +2,27 @@
 // Created by Flavia Rivero on 29/11/24.
 //
 
+//EJERCICIO 2
 #ifndef CIRCULO_H
 #define CIRCULO_H
 
-
-
-class circulo {
-
-};
+namespace Geometria {
+    double calcularAreaCirculo(double radio);
+}
 
 
 
-#endif //CIRCULO_H
+//EJERCICIO 3
+namespace Geometria {
+    class Circulo {
+    private:
+        double radio;
+    public:
+        Circulo(double r);
+        double calcularArea();
+        double calcularPerimetro();
+    };
+}
+
+
+#endif // CIRCULO_H

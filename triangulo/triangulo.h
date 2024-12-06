@@ -5,12 +5,8 @@
 #ifndef TRIANGULO_H
 #define TRIANGULO_H
 
+namespace Geometria {
+    double calcularAreaTriangulo(double base, double altura);
+}
 
-
-class triangulo {
-
-};
-
-
-
-#endif //TRIANGULO_H
+#endif // TRIANGULO_H
