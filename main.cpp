@@ -44,7 +44,6 @@ namespace Ciencia {
 }
 
 
-//EJERCICIO 5
 
 int main() {
 
